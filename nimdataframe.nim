@@ -41,6 +41,10 @@ import parsecsv,streams,algorithm
 import db_sqlite
 import typetraits,typeinfo
 
+when defined(windows):
+  var tw = 80
+  var th = 100
+  
 let NIMDATAFRAMEVERSION* = "0.0.1.3"
    
 type      
