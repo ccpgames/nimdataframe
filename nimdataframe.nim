@@ -14,7 +14,7 @@
 ##
 ##   Compiler    : Nim >= 0.17.0
 ##
-##   OS          : Linux
+##   OS          : Linux, Windows
 ##
 ##   Description :
 ##   
